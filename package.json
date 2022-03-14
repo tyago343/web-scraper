@@ -1,0 +1,14 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "This is a web scraper exercise with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Casanova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
